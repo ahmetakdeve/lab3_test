@@ -7,4 +7,6 @@
 #' @author Ahmet Akdeve \email{ahmak554@student.liu.se}
 #'
 #' @name eucstar
+#' 
 NULL
+
