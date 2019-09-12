@@ -11,14 +11,7 @@
 
 
 euclidean<-function(a,b){
- if(a<0){
-   a<--a
- }
-  if(b<0){
-    b<--b
-  }
-  
-   if(a<b){
+  if(a<b){
     d<-a
     a<-b
     b<-d
