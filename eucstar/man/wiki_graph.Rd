@@ -4,7 +4,7 @@
 \name{wiki_graph}
 \alias{wiki_graph}
 \title{Data frame which is being used for Dijkstra algorithm}
-\format{A \code{tibble} with with 3 columns, which are:
+\format{A \code{data frame} with with 3 columns, which are:
 \describe{
 \item{v1}{Start point(value) of the node}
 \item{v2}{End point(value) of the node}
