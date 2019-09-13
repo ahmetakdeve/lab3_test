@@ -2,9 +2,8 @@
 #'
 #' Dijkstra's algorithm to find the shortest path in a graph
 #'
-#' @param v1 Start node
-#' @param v2 End node
-#' @param w Weighted path between start node and end node
+#' @param graph Data frame containing variabler related to the graph
+#' @param init_node Start node
 #'
 #' @return A vector contains the shortest paths from specific start node to other nodes
 #'
