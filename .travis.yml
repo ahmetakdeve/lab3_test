@@ -1,3 +1,5 @@
 language: r
 cache: packages
 before_install: cd eucstar
+
+warning_are_errors: false

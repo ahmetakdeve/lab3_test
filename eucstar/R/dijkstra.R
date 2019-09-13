@@ -120,4 +120,4 @@ dijkstra = function(graph, init_node, mpath = FALSE) {
   return(c(result.dis))
 }  
 
-
+?dijkstra
