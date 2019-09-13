@@ -2,7 +2,7 @@ Package: eucstar
 Type: Package
 Title: Euclidean and Dijkstra Package
 Version: 0.1.0
-Author: Ahmet Akdeve
+Author: Ahmet Akdeve & Zhixuan Duan
 Maintainer: Ahmet Akdeve <ahmak554@student.liu.se>
 Description: Contains two famous algorithms, Euclidian algoritm to find the greatest common divisor of two integers and Djikstra's shortest path algorithm.
 License: GPL-2

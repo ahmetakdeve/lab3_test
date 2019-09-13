@@ -10,4 +10,6 @@ Contains two famous algorithms, Euclidian algoritm to find the greatest common d
 }
 \author{
 Ahmet Akdeve \email{ahmak554@student.liu.se}
+
+Zhixuan Duan \email{darinstu999@gmail.com}
 }
