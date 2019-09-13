@@ -2,9 +2,9 @@
 #'
 #' Dijkstra's algorithm to find the shortest path in a graph
 #'
-#' @param graph Data frame containing variabler related to the graph
+#' @param graph Data frame containing variables related to the graph
 #' @param init_node Start node
-#'
+#' @param mpath Multiple paths
 #' @return A vector contains the shortest paths from specific start node to other nodes
 #'
 #' @export

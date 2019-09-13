@@ -7,11 +7,11 @@
 dijkstra(graph, init_node, mpath = FALSE)
 }
 \arguments{
-\item{v1}{Start node}
+\item{graph}{Data frame containing variables related to the graph}
 
-\item{v2}{End node}
+\item{init_node}{Start node}
 
-\item{w}{Weighted path between start node and end node}
+\item{mpath}{Multiple paths}
 }
 \value{
 A vector contains the shortest paths from specific start node to other nodes
